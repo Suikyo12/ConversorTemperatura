@@ -23,8 +23,7 @@ import java.util.Scanner;
  * 3. Salir
  * </pre>
  * 
- * @author TuNombre
- * @version 1.1
+ * @author Francisco Valencia
  */
 
 public class ConversorTemperatura {
